@@ -1,0 +1,13 @@
+Walking: "Walking.png"
+Running: "Running.png"
+Working: "Working.png"
+Meeting: "Meeting.png"
+Reading: "Reading.png"
+Watching TV: "Watching.png"
+Party: "Party.png"
+Eating Outside: "Resturant.png"
+Shopping: "Shopping.png"
+MuseumsVisiting: "Museums.png"
+Travel: "Travel.png"
+Hangout with friends: "Hangingout.png"
+
